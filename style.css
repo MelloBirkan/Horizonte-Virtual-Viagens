@@ -1,0 +1,46 @@
+body {
+  font-family: "Open Sans";
+  text-align: center;
+  margin: 0;
+}
+
+#main {
+  width: 540px;
+  margin: 0 auto;
+}
+
+h1 {
+  font-family: Dosis;
+  font-size: 32px;
+  font-weight: 500;
+}
+
+#purple {
+  color: #ee24ff;
+}
+
+span {
+  color: #828282;
+  font-weight: 700;
+}
+
+p {
+  color: #828282;
+  font-weight: 400;
+}
+
+h1,
+strong {
+  color: #3f3d56;
+}
+
+.height-alt {
+  line-height: 22px;
+}
+
+#line {
+  width: 391px;
+  border: 1px solid #eceff2;
+
+  margin: 0 auto;
+}
